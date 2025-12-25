@@ -1,15 +1,4 @@
-# Will You Be My Valentine? 
-
-This project is designed to be an interactive webpage to ask someone to be your Valentine. Please use this code as inspiration.
----
-## Respect Open-Source
-I built this for **fun & learning**. If you fork or modify it:  
-✔ **Use it for creativity, personal projects, or learning**  
-✔ **Give proper credit when using it in public**  
-✔ **Respect the original creator’s work**  
- 
-
-
+"I’m sorry for hurting you. I created this to show you that no matter how many times things go wrong (or how many times the 'No' button is clicked), I will always keep trying to win your heart. Please forgive me?"
 
 
 ## How It Works 
